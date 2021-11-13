@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_attack">Начать атаку</string>
+    <string name="number_of_cycles">Количество повторов</string>
+    <string name="phone_error">Неверный формат номера</string>
+    <string name="darktheme">Тёмная тема</string>
+</resources>
